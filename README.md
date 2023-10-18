@@ -1,0 +1,1 @@
+This project is about creating a basic web application in which you can find different recipes using the odin project platform. 
